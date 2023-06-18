@@ -12,3 +12,6 @@
 12.5
 50.55
 
+#Boolean examples
+true
+false
