@@ -1,17 +1,17 @@
 #String examples
-"This is a string"
-"My name is a string"
+string_example = "This is a string"
+name = "My name is a Ethan"
 
 #Integer examples
-13
-14
-15
+age = 13
+age = 14
+age = 15
 
 #Float examples
-1.1
-12.5
-50.55
+rdm_num1 = 1.1
+rdm_num2 = 12.5
+rdm_num3 = 50.55
 
 #Boolean examples
-true
-false
+potatoes_are_tasty = true
+pickles_are_tasty = false
